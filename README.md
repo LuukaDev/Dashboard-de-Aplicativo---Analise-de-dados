@@ -55,7 +55,7 @@ A análise ajuda a responder perguntas como:
 
 ## 🧑‍💻 Autor
 
-**Lucas – Desenvolvedor de Dados**  
+**Lucas Nogueira silva– Desenvolvedor**  
 [LinkedIn] https://www.linkedin.com/in/lucasnogsilva/ • [GitHub] https://github.com/LuukaDev
 
 ---
