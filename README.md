@@ -1,8 +1,9 @@
 # 📊 Dashboard de Análise de Dados de Aplicativo
 
+![DashBord1](https://github.com/user-attachments/assets/c485f664-7d6c-4619-8a45-04afa0b64eb7)
 ![DashBord3](https://github.com/user-attachments/assets/aae37456-0545-4315-ae8f-f7c8653615e1)
 ![DashBord2](https://github.com/user-attachments/assets/16377127-1a3d-47e4-bc9d-ce9375a37fcd)
-![DashBord1](https://github.com/user-attachments/assets/c485f664-7d6c-4619-8a45-04afa0b64eb7)
+
 
 Este projeto consiste em um dashboard interativo criado no Excel para analisar o comportamento dos usuários de um aplicativo ou site. Através de gráficos e tabelas dinâmicas, é possível extrair insights valiosos sobre sessões, engajamento, perfil dos usuários e taxa de conversão.
 
